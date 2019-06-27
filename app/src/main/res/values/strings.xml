@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Call Hospital</string>
+
+    <string name="challenges">Challenges</string>
+    <string name="health_facility">Health Facility</string>
+    <string name="add_hospital">Add Hospital</string>
+    <string name="points">Points</string>
+    <string name="profile">Profile</string>
+</resources>

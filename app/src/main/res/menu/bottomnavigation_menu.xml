@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+            android:id="@+id/challenges"
+            android:title="@string/challenges"
+            android:icon="@drawable/challenges"/>
+
+    <item
+            android:id="@+id/health_facility"
+            android:title="@string/health_facility"
+            android:icon="@drawable/health_facility"/>
+
+    <item
+            android:id="@+id/add_hospital"
+            android:title="@string/add_hospital"
+            android:icon="@drawable/add_hospital"/>
+
+    <item
+            android:id="@+id/points"
+            android:title="@string/points"
+            android:icon="@drawable/points"/>
+    <item
+            android:id="@+id/profile"
+            android:title="@string/profile"
+            android:icon="@drawable/profile"/>
+
+</menu>
